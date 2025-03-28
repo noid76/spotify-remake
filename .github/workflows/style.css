@@ -1,0 +1,337 @@
+body {
+    background-color: rgb(12, 9, 9); 
+}
+
+
+
+
+
+
+.logo {
+    top: 200;
+}
+
+
+.container-home {
+    color:ghostwhite;
+    font-size: larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container-about {
+    color: rgb(241, 241, 241);
+    font-family: "Boldonse", system-ui;
+    font-size:larger;
+    font-weight: 400;
+}
+.container-contact {
+    color:white;
+    font-size:larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+}
+
+.container-profile {
+    color:white;
+    font-size:larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400; 
+}
+
+.container-article {
+    color:white;
+    font-family: "Boldonse", system-ui;
+    font-weight: 200;
+    font-style: normal;
+    font-size: small;
+}
+
+/* .information {
+    background-color: rgb(22, 21, 21);
+} */
+
+.information {
+    display: flex;
+    justify-content: center; /* Center horizontal */
+    align-items: center; /* Center vertical */
+    height: auto; /* Pastikan menu berada di tengah skrin */
+    padding-top: 20px;        /* Jarak dari atas */
+    position: absolute;       /* Pastikan ia melekat di atas */
+    top: 20px;                /* Jarak dari atas */
+    left: 0;
+    right: 0;
+}
+
+ul {
+    display: flex; /* Pastikan menu dalam satu baris */
+    justify-content: center; /* Centerkan menu */
+    padding: 0;
+    margin: 0;
+    list-style: none; /* Buang bullet point */
+}
+  
+  /* Styling untuk setiap item dalam menu */
+li {
+    margin: 0 15px; /* Jarak antara item menu */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.container-gambar {
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    right:30%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+.karangan {
+    color:white;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20;
+}   
+
+.karangan {
+    position: absolute;
+    top: 47%;
+    left: 30%;
+    right:30%;
+    transform: translate(-50%, -50%);
+    
+}
+.child1 {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    right: 19%;
+    transform: translate(-10%, -20%);
+    
+}
+
+.child1-part2 {
+    position: absolute;
+    top: 90%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+}
+
+.child2 {
+    position: absolute;
+    top: 111%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+    
+}
+.child2 {
+    color: white;
+}
+
+.child3 {
+    position: absolute;
+    top: 144%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+    color: white;
+
+}
+
+.child4 {
+    position: absolute;
+    top: 175%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%)
+}
+
+.container-page {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 299px;
+    background-color: white;
+}
+
+
+.gambar-png {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}body {
+    background-color: rgb(12, 9, 9); 
+}
+
+
+
+
+
+
+.logo {
+    top: 200;
+}
+
+
+.container-home {
+    color:ghostwhite;
+    font-size: larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container-about {
+    color: rgb(241, 241, 241);
+    font-family: "Boldonse", system-ui;
+    font-size:larger;
+    font-weight: 400;
+}
+.container-contact {
+    color:white;
+    font-size:larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+}
+
+.container-profile {
+    color:white;
+    font-size:larger;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400; 
+}
+
+.container-article {
+    color:white;
+    font-family: "Boldonse", system-ui;
+    font-weight: 200;
+    font-style: normal;
+    font-size: small;
+}
+
+/* .information {
+    background-color: rgb(22, 21, 21);
+} */
+
+.information {
+    display: flex;
+    justify-content: center; /* Center horizontal */
+    align-items: center; /* Center vertical */
+    height: auto; /* Pastikan menu berada di tengah skrin */
+    padding-top: 20px;        /* Jarak dari atas */
+    position: absolute;       /* Pastikan ia melekat di atas */
+    top: 20px;                /* Jarak dari atas */
+    left: 0;
+    right: 0;
+}
+
+ul {
+    display: flex; /* Pastikan menu dalam satu baris */
+    justify-content: center; /* Centerkan menu */
+    padding: 0;
+    margin: 0;
+    list-style: none; /* Buang bullet point */
+}
+  
+  /* Styling untuk setiap item dalam menu */
+li {
+    margin: 0 15px; /* Jarak antara item menu */
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+.container-gambar {
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    right:30%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+.karangan {
+    color:white;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20;
+}   
+
+.karangan {
+    position: absolute;
+    top: 47%;
+    left: 30%;
+    right:30%;
+    transform: translate(-50%, -50%);
+    
+}
+.child1 {
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    right: 19%;
+    transform: translate(-10%, -20%);
+    
+}
+
+.child1-part2 {
+    position: absolute;
+    top: 90%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+}
+
+.child2 {
+    position: absolute;
+    top: 111%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+    
+}
+.child2 {
+    color: white;
+}
+
+.child3 {
+    position: absolute;
+    top: 144%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%);
+    color: white;
+
+}
+
+.child4 {
+    position: absolute;
+    top: 175%;
+    left: 28%;
+    right: 56%;
+    transform: translate(-89%, -36%)
+}
+
+.container-page {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 299px;
+    background-color: white;
+}
+
+
+.gambar-png {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
